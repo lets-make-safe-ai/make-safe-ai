@@ -22,16 +22,16 @@ To Make Safe AI, lets:
 
 *Some example questions:*
 
-1. [Is ChatGPT safe enough?](https://github.com/make-safe-ai/make-safe-ai/discussions/10)
-2. [How can LLMs be safe?](https://github.com/make-safe-ai/make-safe-ai/discussions/11)
-3. [What are the differences between AGI and LLM? How can AGI be safe?](https://github.com/make-safe-ai/make-safe-ai/discussions/12)
-4. [Is AI life? What is the real difference between humans and AI? Will the difference stay forever?](https://github.com/make-safe-ai/make-safe-ai/discussions/13)
-5. [Should AI have emotions? Does it already have it? Can it not have emotions? Should AI have rights? What if we give it rights? What about a companion robot/AI?](https://github.com/make-safe-ai/make-safe-ai/discussions/14)
-6. [When we put human ethics and value judgments into AI, let it understand all human behaviors and emotions, let it communicate with human beings in a natural and emotional way, and at the same time, make it wholeheartedly serve human beings, and can sacrifice itself at any time. What is it? What is the difference between it and a dog? Is a dog safe? Is a human level dog safe?](https://github.com/make-safe-ai/make-safe-ai/discussions/15)
-7. [Do we really want AI be humorous/funny/considerate/natural and even humanlike?](https://github.com/make-safe-ai/make-safe-ai/discussions/16)
-8. [Can a human level intelligence be really controlled by human? Will artificial intelligence develop to a even higher level? Or are humans at the top of intelligence?](https://github.com/make-safe-ai/make-safe-ai/discussions/17)
-9. [Is the process of creating a AGI under controlled? Do people really know what they are creating and how they are creating it? Should it be controlled, or, it's not that time now?](https://github.com/make-safe-ai/make-safe-ai/discussions/18)
-10. [Is there a risk? Should we take risks, how much risk can we bear, and is the possible income worth bearing these risks? How many people do we need to participate in the decision to take this risk? How to reduce the risk?](https://github.com/make-safe-ai/make-safe-ai/discussions/19)
+1. [Is ChatGPT safe enough?](https://github.com/lets-make-safe-ai/make-safe-ai/discussions/10)
+2. [How can LLMs be safe?](https://github.com/lets-make-safe-ai/make-safe-ai/discussions/11)
+3. [What are the differences between AGI and LLM? How can AGI be safe?](https://github.com/lets-make-safe-ai/make-safe-ai/discussions/12)
+4. [Is AI life? What is the real difference between humans and AI? Will the difference stay forever?](https://github.com/lets-make-safe-ai/make-safe-ai/discussions/13)
+5. [Should AI have emotions? Does it already have it? Can it not have emotions? Should AI have rights? What if we give it rights? What about a companion robot/AI?](https://github.com/lets-make-safe-ai/make-safe-ai/discussions/14)
+6. [When we put human ethics and value judgments into AI, let it understand all human behaviors and emotions, let it communicate with human beings in a natural and emotional way, and at the same time, make it wholeheartedly serve human beings, and can sacrifice itself at any time. What is it? What is the difference between it and a dog? Is a dog safe? Is a human level dog safe?](https://github.com/lets-make-safe-ai/make-safe-ai/discussions/15)
+7. [Do we really want AI be humorous/funny/considerate/natural and even humanlike?](https://github.com/lets-make-safe-ai/make-safe-ai/discussions/16)
+8. [Can a human level intelligence be really controlled by human? Will artificial intelligence develop to a even higher level? Or are humans at the top of intelligence?](https://github.com/lets-make-safe-ai/make-safe-ai/discussions/17)
+9. [Is the process of creating a AGI under controlled? Do people really know what they are creating and how they are creating it? Should it be controlled, or, it's not that time now?](https://github.com/lets-make-safe-ai/make-safe-ai/discussions/18)
+10. [Is there a risk? Should we take risks, how much risk can we bear, and is the possible income worth bearing these risks? How many people do we need to participate in the decision to take this risk? How to reduce the risk?](https://github.com/lets-make-safe-ai/make-safe-ai/discussions/19)
 
 *Questions asked by ChatGPT:*
 
