@@ -8,8 +8,8 @@ Make our next-gen-AI/AGI and the development/study/research on them 99.999% Safe
 
 To Make Safe AI, lets:
 
-- **📚 Sort!** Classify papers, news and research.
-- **💡 Share!** Share any ideas, from technology, philosophy, psychology, sociology, biology, ...
+- **📚 Sort out!** Classify papers, news and research.
+- **💡 Share!** Share any ideas, from technology, philosophy, psychology, sociology, biology, law ...
 - **💬 Discuss!** Whatever, let's talk🔥!
 - **🙌 Propose!** Find a way or possible methods.
 - **...**
