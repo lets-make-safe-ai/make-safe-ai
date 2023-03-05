@@ -16,9 +16,9 @@ To Make Safe AI, lets:
 
 [💬 Discuss Here!](https://github.com/lets-make-safe-ai/make-safe-ai/discussions)
 
-## [Materials (Working on)](materials/readme.md)
+## [Materials (Working on)](materials/README.md)
 
-[Click to see](materials/readme.md) Websites, papers, news, articles, ... on AI Safety, Alignment Problem, AGI development, ...
+[Click to see](materials/README.md) Websites, papers, news, articles, ... on AI Safety, Alignment Problem, AGI development, ...
 
 *Is now seeking for contributers ...*
 
