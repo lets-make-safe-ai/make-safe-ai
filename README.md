@@ -2,6 +2,10 @@
 
 Make our next-gen-AI/AGI and the development/study/research on them 99.999% Safe!
 
+[\[EN\] Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
+
+[\[中文\] 暂停大型人工智能实验：一封公开信](https://www.make-safe-ai.com/open-letter/cn)
+
 ## Let's Discuss! 💡|💬|🙌|📚
 
 **Seeking for suggestions/help, collaborators, contributers for this repository.**
